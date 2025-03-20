@@ -14,13 +14,13 @@ Este proyecto es una maquetación sencilla desarrollada con React y Vite. Su obj
 
 Ejecuta el siguiente comando en tu terminal:
 ```sh
-git clone https://github.com/CarlosQuiroz25/maquetacion_web2
+git clone https://github.com/CarlosQuiroz25/maquetacion_web2.git
 
 ```
 
 Instalación de Dependencias
 ```sh
-npm install o npm i
+npm install
 
 ```
 
