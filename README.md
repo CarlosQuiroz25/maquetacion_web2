@@ -1,12 +1,35 @@
-# React + Vite
+# Proyecto de Maquetación con React y Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una maquetación sencilla desarrollada con React y Vite. Su objetivo es demostrar la estructura básica de una página web con componentes reutilizables y estilos aplicados.
 
-Currently, two official plugins are available:
+## Requisitos Previos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Asegúrate de tener instalado:
 
-## Expanding the ESLint configuration
+- Node.js (versión recomendada LTS)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Git
+
+### Clonación del Repositorio
+
+Ejecuta el siguiente comando en tu terminal:
+```sh
+git clone https://github.com/CarlosQuiroz25/maquetacion_web2
+
+```
+
+Instalación de Dependencias
+```sh
+npm install o npm i
+
+```
+
+### Ejecución en Desarrollo
+
+Para iniciar el servidor de desarrollo:
+```sh
+npm run dev
+
+```
+
+El proyecto estará disponible en http://localhost:5173/ (o el puerto indicado en la terminal).
