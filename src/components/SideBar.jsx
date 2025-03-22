@@ -1,4 +1,4 @@
-"use client";
+
 
 const enlaces = [
     { id: 1, nombre: 'Inicio', ruta: '/' },
@@ -10,9 +10,6 @@ const enlaces = [
 export const SideBar = () => {
     return (
         <aside className="panel-control-aside">
-            <div>
-                <img src="/public/perfil.png" alt="Perfil" />
-            </div>
             <nav>
                 {enlaces.map((enlace) => (
                     <a href={enlace.ruta} key={enlace.id}>{enlace.nombre}</a>

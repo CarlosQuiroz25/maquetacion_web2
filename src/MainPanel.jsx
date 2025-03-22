@@ -6,15 +6,15 @@ const MainPanel = () => {
         <section className="panel-control">
             <SideBar />
             <div className="panel-control-contenido">
-                <Cards title={'FirstCard'}/>
-                <Cards title={'FirstCard'}/>
-                <Cards title={'FirstCard'}/>
-                <Cards title={'SecondCard'}/>
-                <Cards title={'SecondCard'}/>
-                <Cards title={'SecondCard'}/>
-                <Cards title={'ThirdCard'}/>
-                <Cards title={'ThirdCard'}/> 
-                <Cards title={'ThirdCard'}/>
+                <Cards title={'Titulo'}/>
+                <Cards title={'Titulo'}/>
+                <Cards title={'Titulo'}/>
+                <Cards title={'Titulo'}/>
+                <Cards title={'Titulo'}/>
+                <Cards title={'Titulo'}/>
+                <Cards title={'Titulo'}/>
+                <Cards title={'Titulo'}/> 
+                <Cards title={'Titulo'}/>
             </div>
         </section>
     )
