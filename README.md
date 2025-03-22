@@ -1,6 +1,7 @@
 # Proyecto de Maquetación con React y Vite
 
 Este proyecto es una maquetación sencilla desarrollada con React y Vite. Su objetivo es demostrar la estructura básica de una página web con componentes reutilizables y estilos aplicados en base a la siguiente imagen:
+
 ![image](https://github.com/user-attachments/assets/37a95cf4-ebb3-4a1c-bab8-73fd08d5bcec)
 
 ## Requisitos Previos
